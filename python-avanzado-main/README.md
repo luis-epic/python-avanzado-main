@@ -1,6 +1,6 @@
 # Curso de Python Avanzado
 
-¡Hola! Soy tu profesora Carli Code y te doy la bienvenida al **Curso de Python Avanzado**. Este curso está diseñado para llevarte más allá de los fundamentos y proporcionarte las herramientas y técnicas avanzadas necesarias para trabajar en proyectos Python de alto rendimiento y escalabilidad. A lo largo del curso, aprenderás a diseñar código limpio y eficiente, utilizar decoradores, manejar concurrencia, crear módulos reutilizables, y mucho más. Puedes acceder al curso completo en [Python Avanzado](https://platzi.com/cursos/python-avanzado/).
+¡Hola!  te doy la bienvenida al **Curso de Python Avanzado**. Este curso está diseñado para llevarte más allá de los fundamentos y proporcionarte las herramientas y técnicas avanzadas necesarias para trabajar en proyectos Python de alto rendimiento y escalabilidad. A lo largo del curso, aprenderás a diseñar código limpio y eficiente, utilizar decoradores, manejar concurrencia, crear módulos reutilizables, y mucho más. Puedes acceder al curso completo en [Python Avanzado](https://platzi.com/cursos/python-avanzado/).
 
 ## Módulo 1: Fundamentos Avanzados de Python
 En este módulo, exploraremos cómo escribir **código Pythonico**, siguiendo las mejores prácticas y convenciones del lenguaje. Aprenderás a utilizar la **PEP 8** y a implementar **comentarios y docstrings** efectivos para documentar tu código. Además, discutiremos el uso de **variables locales y globales** y cómo las **anotaciones de tipo** pueden mejorar la legibilidad y el mantenimiento de tus proyectos.
